@@ -12,7 +12,6 @@ This static website serves as a platform to highlight my skills, projects, and a
 ## Technologies Used
 
 - HTML
-- CSS
 - GitHub Pages (for hosting the static website)
 
 ## Contributing
