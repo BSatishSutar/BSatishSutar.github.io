@@ -30,5 +30,9 @@ If you have any questions or would like to get in touch, you can reach me at:
 - LinkedIn: [Satish Sutar](https://www.linkedin.com/in/satish-sutar/)
 - Website: https://bsatishsutar.github.io/
 
+## GitHub Pages Documentation
+
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
 ---
 
