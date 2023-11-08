@@ -1,5 +1,13 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <link rel="stylesheet" id="theme" href="light-mode.css">
+</head>
+<body>
+    <button id="mode-switch" onclick="toggleMode()">Switch Mode</button>
+    <!-- Rest of your website content -->
+<!DOCTYPE html>
+<html>
   <head>
     <title>Satish Sutar - DevOps and Cloud Engineer</title>
     <meta charset="UTF-8">
@@ -327,5 +335,18 @@
  <! -- <a class="w3-button w3-round-xxlarge w3-small w3-light-grey w3-margin-bottom" href="https://www.w3schools.com/spaces" target="_blank"></a>  <!-- End footer -->
  </footer>
 
+</body>
+</html>
+
+    <script>
+        function toggleMode() {
+            const themeLink = document.getElementById('theme');
+            if (themeLink.getAttribute('href') === 'light-mode.css') {
+                themeLink.setAttribute('href', 'dark-mode.css');
+            } else {
+                themeLink.setAttribute('href', 'light-mode.css');
+            }
+        }
+    </script>
 </body>
 </html>
